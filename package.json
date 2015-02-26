@@ -1,0 +1,16 @@
+{
+  "name": "vox-elizabot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "elizabot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "elizabot": "0.0.2",
+    "vox-client": "0.0.13"
+  },
+  "private": true
+}
